@@ -1,5 +1,6 @@
 # Big-Data-Analytics-Music-Data
 Predicted trends using machine learning algorithms on regression, classification using Apache Spark, Python, Databricks.
+Technologies: Python, Apache Spark, Databricks, Machine Learning, Big Data
 
 It was accessed from https://github.com/mdeff/fma
 It consists of multiple files –
